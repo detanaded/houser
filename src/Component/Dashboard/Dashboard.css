@@ -1,0 +1,17 @@
+/* @font-face {
+  font-family: 'Open Sans';
+  src: 
+} */
+
+.dashboard1 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard2{
+  width: 50%;
+  height: 100vh;
+  background-color: #E5F4EC;
+}
